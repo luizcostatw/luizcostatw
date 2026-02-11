@@ -27,9 +27,4 @@ Quando não estou depurando erros ou estudando matemática, você provavelmente 
 > "Trabalho duro é inútil para aqueles que não acreditam em si mesmos." – Uzumaki Naruto
 
 ---
-
-### 📊 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luizcostatw&show_icons=true&theme=dracula)
-
----
 📫 **Como me encontrar:** Pode me chamar aqui pelo GitHub ou conectar-se comigo para trocarmos ideias sobre dev e segurança!
